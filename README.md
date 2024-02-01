@@ -26,5 +26,5 @@ We curated the first multi-modal colposcopy dataset, annotated by highly experie
 <img src="images/dataset.png" width="80%">
 
 
-**Notable:** For privacy and security reasons, the dataset cannot be upload to GitHub or Google Drive. If you are interset in our project or dataset, please contact with us (syyshayuyang@163.com). 
+**Notable:** For privacy and security reasons, the dataset cannot be upload to GitHub or Google Drive. If you are interseted in our project or dataset, please contact with us (syyshayuyang@163.com). 
 
