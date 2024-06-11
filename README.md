@@ -12,7 +12,7 @@ In this paper, we proposed a cervical lesions diagnosis method named CerviFusion
 
 4. Our proposed model outperforms existing single-modality approaches in both accuracy and compactness of design.
 
-<img src="images/iscience-fig-abss.png" width="85%">
+<img src="images/iscience-fig-abss.png" width="100%">
 
 
 ## Proposed Method
