@@ -10,7 +10,10 @@ In this paper, we proposed a cervical lesions diagnosis method named CerviFusion
 
 3. Central to our model are three specialized feature processing branches, each tailored for distinct image types: original colposcopic images, a time series of acetic acid reaction images at 60 and 120 seconds, and iodine staining images. We've innovated a feature processing architecture that merges Convolutional Neural Networks (CNNs) with Vision Transformers, granting it enhanced capabilities for interpreting both local and global image features. Additionally, a Temporal Encoder Module, grounded in the GRU framework, captures and encodes dynamic changes in acetic acid series images, enriching the model's diagnostic precision.
 
-4. Our proposed model outperforms existing single-modality approaches in both accuracy and compactness of design. 
+4. Our proposed model outperforms existing single-modality approaches in both accuracy and compactness of design.
+
+<img src="images/iscience-fig-abss.png" width="85%">
+
 
 ## Proposed Method
 
