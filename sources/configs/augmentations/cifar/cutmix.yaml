@@ -1,4 +1,0 @@
-augmentation:
-  use_cutmix: True
-  cutmix:
-    alpha: 1.0
